@@ -5,7 +5,7 @@ body, html {
 /* The hero image */
 .hero-image {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-  background-image: linear-gradient(rgba(122, 23, 23, 0.5), rgba(0, 0, 0, 0.5)), url("photographer.jpg");
+  background-image: linear-gradient(rgba(224, 0, 0, 0.5), rgba(6, 209, 216, 0.5)), url("https://cdn.vectorstock.com/i/500p/93/62/programmer-at-working-developing-and-coding-vector-46159362.jpg");
 
   /* Set a specific height */
   height: 50%;
@@ -24,5 +24,5 @@ body, html {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
+  color: rgb(200, 255, 0);
 }
